@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleSearchListView</string>
+    <integer name="btnplusview">1</integer>
+    <integer name="btnpluspos">2</integer>
+</resources>
